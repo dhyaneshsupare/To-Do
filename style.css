@@ -1,0 +1,62 @@
+body, html{
+    margin: 0;
+    padding: 0;
+    height: 100%;
+}
+.container{
+    background: #1a1a1a;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+h1{
+    color: white;
+    text-align: center;
+    margin: 10px;
+}
+
+.input-container{
+    background: rgb(41, 41, 41);
+    border-radius: 8px;
+    text-align: center;
+    padding: 10px;
+}
+
+#todo-input{
+    border-radius: 5px;
+    padding: 3px;
+}
+
+#todo-list{
+    list-style-type: none;
+    padding-left: 0;
+}
+
+li{
+    color: wheat;
+    background-color: #333;
+    margin: 10px 0;
+    padding: 5px;
+    border-radius: 8px;
+    text-align: left;
+}
+
+button{
+    background: red;
+    color: white;
+    border-radius: 3px;
+    cursor: pointer;
+    /* margin-left: 90px; */
+}
+
+#add-task-btn{
+    background-color: rgb(120, 12, 222);
+    color: white;
+    margin: 3px;
+    padding: 3px;
+    border-radius: 5px;
+    box-shadow: 2px;
+    cursor: pointer;
+}
