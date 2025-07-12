@@ -1,7 +1,7 @@
 This is my one of the projects from my `Web Dev Journey` which contains my understandings about frontend work of any website that how the website is designed with CSS and how the script work to handle the task of data manipulation, fetching and display.
 This TO-DO LIST uses local storage to store it's tasks.
 
-This TO-DO LIST made me understand
+This TO-DO LIST made me understand<br>
   •How to target an HTML class, id or element in JavaScript.<br>
   •How to manipulate HTML elements.<br>
   •How to load DOM on Browser.<br>
