@@ -2,12 +2,12 @@ This is my one of the projects from my `Web Dev Journey` which contains my under
 This TO-DO LIST uses local storage to store it's tasks.
 
 This TO-DO LIST made me understand
-  •How to target an HTML class, id or element in JavaScript.
-  •How to manipulate HTML elements.
-  •How to load DOM on Browser.
-  •How to style an static webpage so can be used accordingly.
-  •How to render the data from localStorage to DOM.
-  •How to use localStorage to save our data in JSON Script.
+  •How to target an HTML class, id or element in JavaScript.<br>
+  •How to manipulate HTML elements.<br>
+  •How to load DOM on Browser.<br>
+  •How to style an static webpage so can be used accordingly.<br>
+  •How to render the data from localStorage to DOM.<br>
+  •How to use localStorage to save our data in JSON Script.<br>
 
 
   Hope, You like it!
